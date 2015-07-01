@@ -1,0 +1,9 @@
+{
+  "name": "zefti-walle-client",
+  "description": "Zefti Walle Client",
+  "author": "Ryan Ogle",
+  "dependencies": {
+  },
+  "private": false,
+  "version": "0.0.1"
+}
